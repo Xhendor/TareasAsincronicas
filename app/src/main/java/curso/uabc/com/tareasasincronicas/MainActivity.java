@@ -1,14 +1,11 @@
 package curso.uabc.com.tareasasincronicas;
 
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.os.AsyncTask;
-import android.os.Bundle;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnCancelListener;
+import android.os.AsyncTask;
+import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;

@@ -9,5 +9,6 @@
     <string name="progreso">Progreso Tarea</string>
     <string name="sin_hilos">Ejecución Sin Hilos</string>
     <string name="asynctask_dialog">AsyncTask + ProgressDialog</string>
+    <string name="cancelar">Calcelar</string>
 
 </resources>
